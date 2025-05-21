@@ -1,7 +1,7 @@
 streamlit>=1.0.0
 rich>=10.14.0,<14.0.0  # Force compatible version for Streamlit
 ultralytics>=8.1.0
-opencv-python-headless>=4.5.0
+opencv-python-headless
 numpy
 pandas
 pillow
