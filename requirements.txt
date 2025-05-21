@@ -1,5 +1,5 @@
+streamlit>=1.0.0
 rich>=10.14.0,<14.0.0  # Force compatible version for Streamlit
-streamlit>=1.28.0
 ultralytics>=8.1.0
 opencv-python-headless>=4.5.0
 numpy
@@ -7,4 +7,5 @@ pandas
 pillow
 torch
 plotly>=5.0.0
+opencv-python-headless>=4.5.0
 
