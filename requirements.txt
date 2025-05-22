@@ -1,12 +1,12 @@
 streamlit>=1.0.0
-rich>=10.14.0,<14.0.0  # Force compatible version for Streamlit
+rich>=10.14.0
 ultralytics>=8.1.0
 pandas
 pillow
 torch
 plotly>=5.0.0
-opencv-python-headless==4.5.5.64
-numpy==1.21.6  # Specific compatible version
+opencv-python-headless>=4.5.5.64
+numpy>=1.26.0  # Updated to support Python 3.13
 
 
 
